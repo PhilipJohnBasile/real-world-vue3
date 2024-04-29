@@ -34,5 +34,13 @@ defineComponent({
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1rem;
+  padding: 1rem;
+  background-color: #f5f5f5;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  padding: 1rem 0;
 }
 </style>
